@@ -25,6 +25,12 @@ Email 		: smarteye.id@gmail.com
 Password	: smarteye456
 ```
 
+## AKUN DOMAINESIA
+```
+Email 		: smarteye.id@gmail.com
+Password 	: aLzdJA4d
+```
+
 ## AKUN STRAPI.IO
 ```
 Email 		: smarteye.id@gmail.com
