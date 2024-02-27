@@ -1,6 +1,6 @@
 ## SERVERKEY
 ```
-https://github.com/melodysl/aws
+https://github.com/adheichsn/aws
 ```
 
 ## SERVER AWS SMARTEYE + ITDRI CONFES 2023
@@ -29,6 +29,13 @@ Password	: smarteye456
 ```
 Email 		: smarteye.id@gmail.com
 Password 	: aLzdJA4d
+```
+
+## AKUN gitlab.digitalAmoeba
+```
+Username  : dannysamuel
+Email 		: danny@itdri.id
+Password	: dannysamuel123
 ```
 
 ## AKUN STRAPI.IO
