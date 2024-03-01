@@ -21,12 +21,14 @@ ssh -i platform-smarteye.pem ubuntu@18.142.156.164
 
 ## AKUN SSL2BUY
 ```
+https://store.ssl2buy.com/
 Email 		: smarteye.id@gmail.com
 Password	: smarteye456
 ```
 
 ## AKUN DOMAINESIA
 ```
+https://my.domainesia.com/signin/?_gl=1*p438dp*_gcl_au*MTcwNDUyMzMwMC4xNzA4MDY0NzU2
 Email 		: smarteye.id@gmail.com
 Password 	: aLzdJA4d
 ```
@@ -41,12 +43,14 @@ Password	: dannysamuel123
 
 ## AKUN STRAPI.IO
 ```
+https://api-v2.svcc.io/admin/auth/login
 Email 		: smarteye.id@gmail.com
 Password 	: Smarteye456
 ```
 
 ## AKUN JWPLAYER
 ```
+https://dashboard.jwplayer.com/login
 Email 		: vrlabitdri@gmail.com
 Password 	: Itdri_2023
 ```
