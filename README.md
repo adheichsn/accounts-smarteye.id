@@ -33,6 +33,7 @@ Password 	: aLzdJA4d
 
 ## AKUN gitlab.digitalAmoeba
 ```
+https://git.digitalamoeba.id/users/sign_in
 Username  : dannysamuel
 Email 		: danny@itdri.id
 Password	: dannysamuel123
