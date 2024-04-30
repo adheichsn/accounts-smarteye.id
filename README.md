@@ -7,8 +7,8 @@ https://github.com/adheichsn/aws
 ```
 Email 		: adheichsn01@gmail.com
 Password 	: Itdri_2023
-ssh -i platformsmarteye.pem ubuntu@18.140.30.147 ( smarteye ) ✅
-ssh -i smartpeople.pem ubuntu@18.140.30.147 ( smartpeople ) ✅
+ssh -i platformsmarteye.pem ubuntu@18.142.247.190 ( strapi-v4 ( innocent.svcc.io ) ) ✅
+ssh -i smartpeople.pem ubuntu@18.140.30.147 ( innocent-next + seville + docs + repository + optic + itdrifes ) ✅
 ```
 
 ## SERVER AWS SMARTEYE DBT + SVCC.IO
