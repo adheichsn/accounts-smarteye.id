@@ -7,8 +7,7 @@ https://github.com/adheichsn/aws
 ```
 Email 		: adheichsn01@gmail.com
 Password 	: Itdri_2023
-ssh -i keysmarteye.pem ubuntu@52.74.252.222 ( smarteye ) ✅
-ssh -i platform-confes.pem ubuntu@18.139.136.4 ( itdri-confes ) ❌
+ssh -i platformsmarteye.pem ubuntu@18.140.30.147 ( smarteye ) ✅
 ssh -i smartpeople.pem ubuntu@18.140.30.147 ( smartpeople ) ✅
 ```
 
