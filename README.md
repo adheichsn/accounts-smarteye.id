@@ -61,6 +61,27 @@ Email 		: smarteye.id
 Password 	: Smarteye.id
 ```
 
+## ADMIN INNOCENT-WEBGL
+```
+https://innocent.svcc.io/
+Email 		: smarteye.id@gmail.com
+Password 	: smarteye456
+```
+
+## ADMIN REPOSITORY SMARTEYE.ID
+```
+https://repository.svcc.io/content
+Email 		: smarteye.id@gmail.com
+Password 	: smarteye2024
+```
+
+## ADMIN DOCS-SEVILLE PLUGINS
+```
+https://docs-seville.svcc.io/
+Email 		: smarteye.id@gmail.com
+Password 	: smarteye2024
+```
+
 ## AKUN WP SMARTEYE-BLOGSPOT
 ```
 Email 		: giska
