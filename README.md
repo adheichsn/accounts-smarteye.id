@@ -68,6 +68,13 @@ Email 		: smarteye.id@gmail.com
 Password 	: smarteye456
 ```
 
+## AKUN STRAPI.IO v4
+```
+https://api-v4.svcc.io/admin
+Email 		: smarteye.id@gmail.com
+Password 	: Smarteye456
+```
+
 ## ADMIN REPOSITORY SMARTEYE.ID
 ```
 https://repository.svcc.io/content
