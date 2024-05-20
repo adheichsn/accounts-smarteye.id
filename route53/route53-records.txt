@@ -1,0 +1,68 @@
+$ORIGIN svcc.io.
+@	900	IN	SOA	ns-1525.awsdns-62.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+@	60	IN	A	13.229.66.242
+@	172800	IN	NS	ns-1525.awsdns-62.org.
+@	172800	IN	NS	ns-230.awsdns-28.com.
+@	172800	IN	NS	ns-1985.awsdns-56.co.uk.
+@	172800	IN	NS	ns-783.awsdns-33.net.
+@	300	IN	TXT	"google-site-verification=n8HpXq6_c76qHf506G-5U5E5drb4Xnz6f_bWUuS-9G4"
+_07c32a4e8d94ec1d9131e28f5b68e16f	300	IN	CNAME	_403c94d0d6748a068932551d0c400a6c.czrmfnbpdk.acm-validations.aws.
+_65577bf59af31f5c4938c58b29762938	300	IN	CNAME	7807A64CC526BA5D883AF36E3B9459B1.F3E8E55FC1A8F6652FFF2A27827A29F8.SeFsllZo7e.comodoca.com.
+_7e17a264a0811aaecf9eba2e34c6575b	3600	IN	CNAME	A86D6B3D035DF7074F72DFBCB0A94B09.BB7FC73EDF425F50BEAFA066A729B3A1.daxqbvT2Oj.comodoca.com.
+api-ben-socket	60	IN	A	18.142.156.164
+api-ben	60	IN	A	18.142.156.164
+api-gamifikasi-agustusan	60	IN	A	18.139.222.143
+api-gamifikasi-gpansor	60	IN	A	54.151.204.139
+api-gamifikasi-itdri	60	IN	A	180.250.124.67
+api-idt-socket	300	IN	A	13.212.253.241
+api-idt	86400	AWS	ALIAS	A dualstack.narsi-1425497288.ap-southeast-1.elb.amazonaws.com. Z1LMS91P8CMLE5 false
+api-itb	300	IN	A	3.1.133.94
+api-itdri-conf	60	IN	A	13.214.45.209
+api-pestarakyat-dev	60	IN	A	3.1.5.137
+api-pestarakyat	86400	AWS	ALIAS	A dualstack.pesta-rakyat-75488251.ap-southeast-1.elb.amazonaws.com. Z1LMS91P8CMLE5 false
+api-socket-artist	60	IN	CNAME	cname-k3s-c1-ins-abc-prod.playcourt.org.
+api-socket-itdri-conf	300	IN	A	3.1.95.241
+api-upacara	86400	AWS	ALIAS	A dualstack.api-upacara-36478007.ap-southeast-1.elb.amazonaws.com. Z1LMS91P8CMLE5 false
+api-v2-socket	60	IN	A	185.227.134.14
+api-v2	60	IN	A	103.76.121.82
+api-v4	300	IN	A	18.142.247.190
+api-wasbang	300	IN	A	18.139.164.168
+assets-public-prod	60	IN	CNAME	assets-public-prod.svcc.io.w.cdngslb.com.
+assets-public-stage	60	IN	CNAME	assets-public-stage.svcc.io.w.cdngslb.com.
+avatar-viewer	60	IN	A	18.142.156.164
+b20legacy	300	IN	A	18.142.19.101
+ben-dev	60	IN	A	13.229.248.15
+blue-economy-network	60	IN	A	18.142.156.164
+datasciencehorizon	300	IN	A	18.142.19.101
+docs-seville	300	IN	A	18.140.30.147
+e-mootcourt	60	IN	A	18.142.158.115
+expoansor	60	IN	A	54.151.204.139
+flappybird	60	IN	A	18.136.200.220
+game-stack	60	IN	A	18.136.200.220
+gct	300	IN	A	18.139.222.143
+indonesiadigitaltribe	60	IN	A	18.136.168.254
+innocent-metaverse	300	IN	A	52.74.252.222
+innocent-next	60	IN	A	18.140.30.147
+innocent-v2	300	IN	A	18.142.156.164
+innocent	60	IN	A	18.140.30.147
+innopadays	60	IN	A	18.142.19.101
+innotalks	60	IN	A	18.142.19.101
+itdriconfes-dbt	300	IN	A	18.140.30.147
+itdriconfes-dcs	300	IN	A	18.140.30.147
+itdriconfes-innocent	300	IN	A	18.140.30.147
+mdl-showcase	300	IN	A	52.74.252.222
+msib	300	IN	A	18.142.19.101
+optic	300	IN	A	18.140.30.147
+pancasila-v2	86400	AWS	ALIAS	A php-dev.ap-southeast-1.elasticbeanstalk.com. Z16FZ9L249IFLT true
+pelindocoaching	300	IN	A	18.142.19.101
+pma	300	IN	A	18.140.30.147
+race-pestarakyat	60	IN	A	18.139.222.143
+repository	300	IN	A	18.140.30.147
+savetheanimal	300	IN	A	13.214.71.11
+seville	300	IN	A	18.140.30.147
+srikanditelkomgroup	60	IN	A	18.142.19.101
+t-confest	60	IN	A	18.142.19.101
+umkmbisa	60	IN	A	18.139.222.143
+utperadilansemu	60	IN	A	13.215.59.81
+virtual-stage	60	IN	A	13.213.32.48
+www	60	IN	A	18.142.156.164
