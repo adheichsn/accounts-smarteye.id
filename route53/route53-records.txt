@@ -1,10 +1,3 @@
-$ORIGIN svcc.io.
-@	900	IN	SOA	ns-1525.awsdns-62.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
-@	60	IN	A	13.229.66.242
-@	172800	IN	NS	ns-1525.awsdns-62.org.
-@	172800	IN	NS	ns-230.awsdns-28.com.
-@	172800	IN	NS	ns-1985.awsdns-56.co.uk.
-@	172800	IN	NS	ns-783.awsdns-33.net.
 @	300	IN	TXT	"google-site-verification=n8HpXq6_c76qHf506G-5U5E5drb4Xnz6f_bWUuS-9G4"
 _07c32a4e8d94ec1d9131e28f5b68e16f	300	IN	CNAME	_403c94d0d6748a068932551d0c400a6c.czrmfnbpdk.acm-validations.aws.
 _65577bf59af31f5c4938c58b29762938	300	IN	CNAME	7807A64CC526BA5D883AF36E3B9459B1.F3E8E55FC1A8F6652FFF2A27827A29F8.SeFsllZo7e.comodoca.com.
