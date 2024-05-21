@@ -10,6 +10,8 @@ Password 	: Itdri_2023
 ssh -i platformsmarteye.pem ubuntu@18.142.247.190 ( strapi-v4 ( innocent.svcc.io ) ) ✅
 ssh -i smartpeople.pem ubuntu@18.140.30.147 ( innocent-next + seville + docs + repository + optic + itdrifes ) ✅
 ```
+### Acsess Key :
+![](https://assets-repository.s3.ap-southeast-1.amazonaws.com/AccsesKey.jpg)
 
 ## SERVER AWS SMARTEYE DBT + SVCC.IO
 ```
@@ -18,6 +20,8 @@ smarteye
 (sV2^39*
 ssh -i platform-smarteye.pem ubuntu@18.142.156.164
 ```
+### Acsess Key :
+![](https://assets-repository.s3.ap-southeast-1.amazonaws.com/aksesKey-1.png)
 
 ## AKUN SSL2BUY
 ```
