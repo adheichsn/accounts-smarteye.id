@@ -39,7 +39,7 @@ https://store.ssl2buy.com/
 Email 		: smarteye.id@gmail.com
 Password	: smarteye456
 ```
-- SSL : [***ZIP***]([https://drive.google.com/file/d/1iVGSGX_nLmMO76TRYvhKs3l8xN6Y6rZh/view?usp=drive_link](https://drive.google.com/drive/folders/1qXF28fKN0wGJL5V-HCyDrc7uBXTWSXSa?usp=drive_link))
+SSL : [***ZIP***](https://drive.google.com/drive/folders/1qXF28fKN0wGJL5V-HCyDrc7uBXTWSXSa?usp=drive_link)
 
 ## AKUN DOMAINESIA
 ```
