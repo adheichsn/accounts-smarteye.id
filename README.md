@@ -10,6 +10,11 @@ Password 	: Itdri_2023
 ssh -i platformsmarteye.pem ubuntu@18.142.247.190 ( strapi-v4 ( innocent.svcc.io ) ) ✅
 ssh -i smartpeople.pem ubuntu@18.140.30.147 ( innocent-next + seville + docs + repository + optic + itdrifes ) ✅
 ```
+
+```
+AKIA5YWXZ5YJJHTVFE35
+eh34HpARHEVjF379frBdW+BWFKQTEXnAT/w49AaZ
+```
 ### Acsess Key :
 ![](https://assets-repository.s3.ap-southeast-1.amazonaws.com/AccsesKey.jpg)
 
@@ -19,6 +24,11 @@ https://smarteyeid.signin.aws.amazon.com/console
 smarteye
 (sV2^39*
 ssh -i platform-smarteye.pem ubuntu@18.142.156.164
+```
+
+```
+AKIA5YWXZ5YJB2YIB2IL
+Q5+k93NeZUBcrv6qz1Vjk0Pc6YThejDMHnBjV1ZR
 ```
 ### Acsess Key :
 ![](https://assets-repository.s3.ap-southeast-1.amazonaws.com/aksesKey-1.png)
