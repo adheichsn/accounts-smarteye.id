@@ -44,6 +44,21 @@ Q5+k93NeZUBcrv6qz1Vjk0Pc6YThejDMHnBjV1ZR
 ### Acsess Key :
 ![](https://assets-repository.s3.ap-southeast-1.amazonaws.com/aksesKey-1.png)
 
+### PhpMyAdmin
+```
+https://pma.svcc.io/
+user 		: smarteye
+Password	: smarteye2024
+```
+
+### DB PhpMyAdmin
+```
+db-docs
+db-innocent-web
+db-repository
+db-summarecon
+```
+
 ## AKUN SSL2BUY
 ```
 https://store.ssl2buy.com/
