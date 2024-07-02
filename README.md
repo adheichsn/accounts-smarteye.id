@@ -11,6 +11,16 @@ ssh -i platformsmarteye.pem ubuntu@18.142.247.190 ( strapi-v4 ( innocent.svcc.io
 ssh -i smartpeople.pem ubuntu@18.140.30.147 ( innocent-next + seville + docs + repository + optic + itdrifes ) ✅
 ```
 
+### NEXTJS PORT
+
+```
+3000 -> SEVILLE
+3001 -> DOCS SEVILLE
+3002 -> REPOSITORY
+3003 -> INNOCENT-NEXT
+3004 -> INNOCENT-WEB
+```
+
 ```
 AKIA5YWXZ5YJJHTVFE35
 eh34HpARHEVjF379frBdW+BWFKQTEXnAT/w49AaZ
