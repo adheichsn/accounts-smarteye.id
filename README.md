@@ -72,6 +72,13 @@ SSL : [***ZIP***](https://drive.google.com/drive/folders/1qXF28fKN0wGJL5V-HCyDrc
 https://my.domainesia.com/signin/?_gl=1*p438dp*_gcl_au*MTcwNDUyMzMwMC4xNzA4MDY0NzU2
 Email 		: smarteye.id@gmail.com
 Password 	: aLzdJA4d
+domain    : svcc.io
+```
+
+### AKUN JAGOANHOSTING
+```
+login with google smarteye.id@gmail.com
+domain     : smarteye.id
 ```
 
 ## AKUN gitlab.digitalAmoeba
