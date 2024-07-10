@@ -9,6 +9,7 @@ Email 		: adheichsn01@gmail.com
 Password 	: Itdri_2023
 ssh -i platformsmarteye.pem ubuntu@18.142.247.190 ( strapi-v4 ( innocent.svcc.io ) ) ✅
 ssh -i smartpeople.pem ubuntu@18.140.30.147 ( innocent-next + seville + docs + repository + optic + itdrifes ) ✅
+ssh -i smarteye.id.pem ubuntu@3.1.118.195
 ```
 
 ### NEXTJS PORT
