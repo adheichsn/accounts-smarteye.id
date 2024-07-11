@@ -68,6 +68,8 @@ Password	: smarteye456
 ```
 SSL : [***ZIP***](https://drive.google.com/drive/folders/1qXF28fKN0wGJL5V-HCyDrc7uBXTWSXSa?usp=drive_link)
 
+[CSR](https://metal-macaroni-5e8.notion.site/CSR-Certificate-Signing-Request-d4539fb435c94d209b8f91d6850c9dce)
+
 ## AKUN DOMAINESIA
 ```
 https://my.domainesia.com/signin/?_gl=1*p438dp*_gcl_au*MTcwNDUyMzMwMC4xNzA4MDY0NzU2
