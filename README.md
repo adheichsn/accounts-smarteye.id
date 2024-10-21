@@ -15,9 +15,9 @@ ssh -i smarteye.id.pem ubuntu@3.1.118.195
 ### NEXTJS PORT
 
 ```
-3000 -> SEVILLE
-3001 -> DOCS SEVILLE
-3002 -> REPOSITORY
+3000 -> SEVILLE ✅
+3001 -> DOCS SEVILLE ✅
+3002 -> REPOSITORY ✅
 3003 -> INNOCENT-NEXT
 3004 -> INNOCENT-WEB
 3005 -> data-management-api (sudo pm2 start npm --name user-management-api -- run dev -- --PORT=3005)
