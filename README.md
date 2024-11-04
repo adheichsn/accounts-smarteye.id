@@ -95,7 +95,7 @@ Password 	: Smarteye456
 
 ## AKUN ENVANTO ELEMENT
 ```
-Username 		: adminsmarteye
+Username 	: adminsmarteye
 Password 	: Seville_456%
 ```
 
