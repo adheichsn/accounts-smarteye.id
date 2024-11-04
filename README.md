@@ -87,6 +87,18 @@ login with google smarteye.id@gmail.com
 domain     : smarteye.id
 ```
 
+## AKUN UNITY PRO
+```
+Email 		: smarteye.id@gmail.com
+Password 	: Smarteye456
+```
+
+## AKUN ENVANTO ELEMENT
+```
+Username 		: adminsmarteye
+Password 	: Seville_456%
+```
+
 ## AKUN gitlab.digitalAmoeba
 ```
 https://git.digitalamoeba.id/users/sign_in
