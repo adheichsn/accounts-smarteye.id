@@ -99,6 +99,12 @@ Username 	: adminsmarteye
 Password 	: Seville_456%
 ```
 
+## AKUN CAPCUT
+```
+Email 	  : smarteye.id@gmail.com
+Password 	: Smarteye_456%
+```
+
 ## AKUN gitlab.digitalAmoeba
 ```
 https://git.digitalamoeba.id/users/sign_in
