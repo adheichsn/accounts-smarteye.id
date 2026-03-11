@@ -166,3 +166,10 @@ Password 	: smarteye2024
 Email 		: giska
 Password 	: qF%mYnw%BtE2(Gb#rp%Ab1n1
 ```
+
+## AKUN STRAPI FACILITYCORPU
+```
+URL       : https://facility.smarteye.id/admin/auth/login
+Email 		: smarteyevirtuallearning@gmail.com
+Password 	: KMDTcorpu2025
+```
